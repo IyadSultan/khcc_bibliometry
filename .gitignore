@@ -1,0 +1,24 @@
+# Start Generation Here
+# This is a .gitignore file which tells Git which files or directories to ignore.
+# The following lines will specify patterns for files that should not be tracked by Git.
+
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Ignore database files
+*.db
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment files
+.env
+*.env
+
+# Ignore log files
+*.log
+
+# Ignore any temporary files
+*.tmp
+# End Generation Here
