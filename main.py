@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """
+File uses pubmed and serpapi to search for papers from KHCC (pubmed) and scholar (serpapi)
 KHCC Paper Tracker
 A tool to track research papers from King Hussein Cancer Center using PubMed and Google Scholar.
 """
